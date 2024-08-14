@@ -1,0 +1,3 @@
+[workspace]
+members = [ "scripts/add-entry" ]
+resolver = "2"
